@@ -26,8 +26,8 @@ sidebar:
     reddit: 'Rurururururururux2'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
 
     languages:
       - idiom: English
@@ -35,13 +35,13 @@ sidebar:
 
     interests:
       - item: Videogames
-        link:
+        #link:
 
       - item: Anime
-        link:
+        #link:
 
       - item: Writing
-        link:
+        #link:
 
 career-profile:
     title: Career Profile
