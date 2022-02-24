@@ -46,74 +46,74 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I’m a highly skilled technical support agent with cloud solution skills,
+      customer centric. I love to take initiatives and seek out new challenges.
+      Looking to make a difference with my technical skills creating and 
+      administering cloud infrastructure for education, aerospace, and energy
+      industries in particular.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.S. in Education Language Arts
+      university: University of Oklahoma
+      time: 2005-2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Studied Education theories, practice, and philosophy with some of the
+        greatest minds in the plains. I took a particular interest in educational
+        psychology and learning theories.
+          - Dean's Honor Roll
+    - degree: Network Systems Administration
+      university: Tulsa Technology Center
+      time: 2004-2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Learned the ropes behind Windows Server administration, technical troubleshooting,
+        logistics, and team management. Worked with large scale server systems and delivered
+        on-site DHCP, DNS, and file services.
+          - Vice President of the Business Professionals of America
+          - Competed in Sysadmin design competitions locally
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Client Support Specialist
+      time: 2018 - Present
+      company: AT&T, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Client support actively becomes a customer advocate for technical issues and finds solutions
+        for any and all problems. Also took part in several special projects gathering and analyzing
+        data for long term hardware issues.
+          - Oversaw individual, highly escalated support tickets for consumer accounts
+          - Technical writing: added, modified issues presented in a wiki-style knowledge base.
+          - Created training materials for employees at all skill levels.
+          -Mobile, PC, and COTS technical support
+    - role: Technical Case Manager
+      time: 2015 - Present 
+      company: AT&T, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Handle escalated customer issues where long term hardware, billing, or programmatic issues
+        are resolved. This involved advanced troubleshooting, research, analyzing reports, and submitting tickets 
+        to other departments. Also acted as liasion between various company departments and customer as an advocate.
+          - Managed outbound and inbound call flows
+          - Liaised between different technical teams to find solutions
+          - Analyzed data for project proposals
+    - role: Supervisor and Escalation Support Agent
+      time: 2013-2015
+      company: AT&T, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
+        Supervisor role was multifaceted, but mainly consisted of coaching agents on proper business
+        practices and speaking with customers as needed to provide solutions. 
+          - Supported frontline with chat and phone consultations
+          - Created and followed-up on support tickets
+          - Coached personnel in proper methods in line with company values
+          - Retained customers with a loss rate of under 1%.
+          - role: Supervisor and Escalation Support Agent
+    - role: Technical CSR
+      time: 2012-2013
+      company: Directv, LLC
+      details: |
+        Resolved incoming customer queries regarding technical, billing, 
+        and programming isssues with solutions. 
+          - Created Group Presentations for Current Directv Policies for Team
+          - Maintained high quality assurance between customer interactions
+          - Rated as Successful and Highly Successful Leadership Skills Assessments
+certifications:
+    
+#projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -140,7 +140,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -167,22 +167,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        #level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
