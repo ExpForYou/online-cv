@@ -162,23 +162,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: AWS Cloud Architect and Admin
+
         #level: 98%
 
-      - name: Javascript & jQuery
+      - name: VPS management; phpBB, vBulletin, Wordpress, Jekyll, (S)FTP, SSH, SCP
         #level: 98%
 
-      - name: Angular
+      - name: Linux; openLDAP, bash, configuring services, LAMP setup, vim, tmux, yum/apt/deb/dpkg/rpm, git, grep, systemctl, systemd, ps, htop, /proc/
+
         #level: 98%
 
-      - name: HTML5 & CSS
+      - name: Database administration; MySQL, MariaDB, DynamoDB, RDS/Aurora
         #level: 95%
 
-      - name: Ruby on Rails
+      - name: Containers; Docker and Docker-compose
         #level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Platforms; Windows 10; Debian and Red Hat-based distros.
         #level: 60%
-
+      - name: Customer Service; handling objections, providing solutions, upselling products.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
