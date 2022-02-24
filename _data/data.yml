@@ -69,7 +69,7 @@ education:
         on-site DHCP, DNS, and file services.
           - Vice President of the Business Professionals of America
           - Competed in Sysadmin design competitions locally
-experience:
+experiences:
     - role: Client Support Specialist
       time: 2018 - Present
       company: AT&T, Inc.
@@ -157,6 +157,7 @@ projects:
        # link: "#"
         tagline: "Hosted several web applications (e.g. a PHP-MySQL demo app) on a EC2 instance. Also, integrated Amazon’s EC2 Auto Scaling to help maintain application availability versus cost.
 "
+projects:
     title: Skills
     intro: >
       Some skills and knowledges I feel confident on!
