@@ -18,7 +18,7 @@ sidebar:
     website: joshrdrake.com #do not add http://
     linkedin: joshua-drake-70737026
     #xing: alandoe
-    github: sharu725
+    #github: sharu725
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -35,13 +35,13 @@ sidebar:
 
     interests:
       - item: Videogames
-        link:
+        #link:
 
       - item: Anime
-        link:
+        #link:
 
       - item: Writing
-        link:
+        #link:
 
 career-profile:
     title: Career Profile
@@ -114,48 +114,46 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some projects I've done in my learning journey with cloud technologies.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: AWS Amplify
+        #link: "#hook"
+        tagline: "Used git repos to launch a static website using AWS Amplify"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: AWS Budgets for Usage/Cost
+        #link: "#"
+        tagline: "Using AWS Budgets to set custom budgets for tracking costs and resources in an AWS account. Setting up alerts by email when cost/usage exceeds budgeted threshold."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: IAM with MFA
+        #link: "#"
+        tagline: "Using AWS IAM with Multi-Factor Authentication (MFA) for extra protection of the environment."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: S3-based Jekyll Static Site
+        #link: "#"
+        tagline: "Using Amazon’s S3 to host a static website (Jekyll). Combined this with Cloudfront for faster, more effective delivery of content."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-    #title: Publications
+      - title: LAMP stack in EC2
+       # link: "#"
+        tagline: "Hosted several web applications (e.g. a PHP-MySQL demo app) on a EC2 instance. Also, integrated Amazon’s EC2 Auto Scaling to help maintain application availability versus cost.
+"
+publications:
+    title: Certifications
     #intro: |
      # You can list your publications in this section. Lorem ipsum dolor sit
      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
      # bibendum fringilla a eu lectus.
-    #papers:
-     # - title: The Art of Computer Programming
+    papers:
+      - title: AWS Certified Solutions Architect Associate
       #  link: "#"
        # authors: Donald E. Knuth
         #conference: Addison-Wesley, 1968
 
-      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: AWS Certified Cloud Practitioner
        # link: "#"
        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-     # - title: A syntax directed compiler for Algol 60
+      - title: Google IT Support Professional
       #  link: "#"
        # authors: Edgar T. Irons
        # conference: "Comm. ACM 4 (1961), 51–55"
@@ -165,22 +163,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        #level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
