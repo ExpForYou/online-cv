@@ -69,7 +69,7 @@ education:
         on-site DHCP, DNS, and file services.
           - Vice President of the Business Professionals of America
           - Competed in Sysadmin design competitions locally
-experiences:
+experience:
     - role: Client Support Specialist
       time: 2018 - Present
       company: AT&T, Inc.
@@ -111,6 +111,27 @@ experiences:
           - Created Group Presentations for Current Directv Policies for Team
           - Maintained high quality assurance between customer interactions
           - Rated as Successful and Highly Successful Leadership Skills Assessments
+publications:
+    title: Certifications
+    #intro: |
+     # You can list your publications in this section. Lorem ipsum dolor sit
+     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+     # bibendum fringilla a eu lectus.
+    papers:
+      - title: AWS Certified Solutions Architect Associate
+      #  link: "#"
+       # authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
+
+      - title: AWS Certified Cloud Practitioner
+       # link: "#"
+       # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+       # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: Google IT Support Professional
+      #  link: "#"
+       # authors: Edgar T. Irons
+       # conference: "Comm. ACM 4 (1961), 51–55"
 projects:
     title: Projects
     intro: >
@@ -136,51 +157,52 @@ projects:
        # link: "#"
         tagline: "Hosted several web applications (e.g. a PHP-MySQL demo app) on a EC2 instance. Also, integrated Amazon’s EC2 Auto Scaling to help maintain application availability versus cost.
 "
-publications:
-    title: Certifications
-    #intro: |
-     # You can list your publications in this section. Lorem ipsum dolor sit
-     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-     # bibendum fringilla a eu lectus.
-    papers:
-      - title: AWS Certified Solutions Architect Associate
-      #  link: "#"
-       # authors: Donald E. Knuth
-        #conference: Addison-Wesley, 1968
+    title: Skills
+    intro: >
+      Some skills and knowledges I feel confident on!
+    assignments:
+      - title: AWS Cloud Architect and Administration
+        #link: "#hook"
+        tagline: "IAM, EC2, S3 storage services, Databases, Route 53, VPCs, ELB, Autoscaling, CloudFront, CloudWatch, CloudTrail, and Amplify"
 
-      - title: AWS Certified Cloud Practitioner
+      - title: VPS management
+        #link: "#"
+        tagline: "phpBB, vBulletin, Wordpress, Jekyll, (S)FTP, SSH, SCP"
+
+      - title: Linux
+        #link: "#"
+        tagline: "openLDAP, bash, configuring services, LAMP setup, vim, tmux, yum/apt/deb/dpkg/rpm, git, grep, systemctl, systemd, ps, htop, /proc/"
+
+      - title: Containers
+        #link: "#"
+        tagline: "Docker and Docker-compose"
+
+      - title: Server and Desktop platform administration
        # link: "#"
-       # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-       # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        tagline: "Windows 10; Debian and Red Hat-based distros."
+#skills:
+    #title: Skills &amp; Proficiency
 
-      - title: Google IT Support Professional
-      #  link: "#"
-       # authors: Edgar T. Irons
-       # conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: AWS Cloud Architect and Admin
+    #toolset:
+     # - name: AWS Cloud Architect and Admin
 
         #level: 98%
 
-      - name: VPS management; phpBB, vBulletin, Wordpress, Jekyll, (S)FTP, SSH, SCP
+      #- name: VPS management; phpBB, vBulletin, Wordpress, Jekyll, (S)FTP, SSH, SCP
         #level: 98%
 
-      - name: Linux; openLDAP, bash, configuring services, LAMP setup, vim, tmux, yum/apt/deb/dpkg/rpm, git, grep, systemctl, systemd, ps, htop, /proc/
+      #- name: Linux; openLDAP, bash, configuring services, LAMP setup, vim, tmux, yum/apt/deb/dpkg/rpm, git, grep, systemctl, systemd, ps, htop, /proc/
 
         #level: 98%
 
-      - name: Database administration; MySQL, MariaDB, DynamoDB, RDS/Aurora
+      #- name: Database administration; MySQL, MariaDB, DynamoDB, RDS/Aurora
         #level: 95%
 
-      - name: Containers; Docker and Docker-compose
+      #- name: Containers; Docker and Docker-compose
         #level: 85%
 
-      - name: Platforms; Windows 10; Debian and Red Hat-based distros.
+      #- name: Platforms; Windows 10; Debian and Red Hat-based distros.
         #level: 60%
-      - name: Customer Service; handling objections, providing solutions, upselling products.
+      #- name: Customer Service; handling objections, providing solutions, upselling products.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
